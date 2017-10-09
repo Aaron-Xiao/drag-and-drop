@@ -1,0 +1,13 @@
+
+#box {
+	position: fixed;
+	left: 50%;
+	top: 30%;
+	width: 0px;
+	height: 0px;
+	border-radius: 50%;
+	background-color: #0ff;
+	cursor: move;
+}
+
+
